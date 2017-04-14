@@ -55,5 +55,6 @@ endif;
   <input type="submit" name="btnDecode" id="btnDecode" value="Decode">
 </form>
 <?php echo "esta es la primera modificacion"; ?>
+<?php echo "esta es la segunda modificacion"; ?>
 </body>
 </html>
